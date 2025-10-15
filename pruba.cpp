@@ -9,5 +9,6 @@ int main() {
     cout<<"Se logro"<<endl;
     cout<<"oficial"<<endl;
     cout<<"ojala funcione"<<endl;
+    cout<<"ojala funcione 2"<<endl; 
     return 0;
 }
