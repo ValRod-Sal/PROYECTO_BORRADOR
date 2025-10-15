@@ -10,6 +10,5 @@ int main() {
     cout<<"oficial"<<endl;
     cout<<"ojala funcione"<<endl;
     cout<<"ojala funcione 2"<<endl; 
-    cout<<"que se apure la enana de mrda"<<endl;
     return 0;
 }
