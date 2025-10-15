@@ -1,3 +1,3 @@
     #comment
-nombre="Valeria"
+nombre="Val"
 print(nombre)
