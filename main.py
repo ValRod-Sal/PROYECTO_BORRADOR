@@ -1,3 +1,5 @@
     #comment
 nombre="Val"
-print(nombre)
+for elemento in nombre:
+    print("Letra: ",elemento)
+print("Nombre completo: ",nombre)
