@@ -8,5 +8,6 @@ int main() {
     cout<<"Se mamo el Jorge 2"<<endl;
     cout<<"Se logro"<<endl;
     cout<<"oficial"<<endl;
+    cout<<"ojala funcione"<<endl;
     return 0;
 }
